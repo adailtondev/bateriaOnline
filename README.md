@@ -2,7 +2,7 @@
 
 > Status: Concluído ✔️
 
-### É um projeto que simula sons de uma bateria, utilizando clicks ou com os botões de espaço e enter
+### É um projeto que simula sons de uma bateria, utilizando clicks ou os botões de espaço e enter
 
 ## Tecnologias utilizadas:
 <li>HTML</li>
